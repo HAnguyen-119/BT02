@@ -96,7 +96,7 @@ const string FIGURE[] = {
         "   |     \n"
         " -----   \n"
     };
-const string WORD_LIST[] = {"admin", "apple", "advice", "approve", "architech", "basketball", "blue", "blind", "breakfast", "binary",
+const string WORD_LIST[] = {"admin", "apple", "advice", "approve", "architech", "asteroid", "basketball", "blue", "blind", "breakfast", "binary",
                             "cosmos", "charity", "clever", "calendar", "cylinder", "domitory", "dancer", "drink", "daredevil", "dimension",
                             "europe", "endanger", "earth", "epilogue", "education", "fantasy", "flavor", "favorite", "flash", "farmer",
                             "global", "geometry", "green", "giant", "gentle", "happy", "handle", "hacker", "helicopter", "hunter",
